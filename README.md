@@ -1,2 +1,2 @@
-# java
-Java Tutorials
+# Python
+Python Tutorials
