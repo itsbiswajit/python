@@ -1,6 +1,9 @@
 """
 1. Compile-time polymorphism
 2. Run-time Polymorphism
+3. Method Overriding
+4. Duck Typing
+5. Operator Overriding
 """
 
 # CompileTime Polymorphism
