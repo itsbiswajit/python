@@ -60,8 +60,6 @@ if s1==s1[::-1]:
 # Anagram
 s1="listen"
 s2="Silent"
-
-# Anagram
 if sorted(s1.replace(" ", "").lower()) == sorted(s2.replace(" ", "").lower()):
     print(f"'{s1}' and '{s2}' are 'Anagram' String")
 
